@@ -1,2 +1,0 @@
-# Sou um desenvolvedor
-## Serei
